@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shopping-cart-practice/static/css/main.05b073dc.css",
+    "main.js": "/shopping-cart-practice/static/js/main.40d55b71.js",
+    "static/media/carrie.jpg": "/shopping-cart-practice/static/media/carrie.62d114daf3a83137912b.jpg",
+    "static/media/the-way-of-kings.jpg": "/shopping-cart-practice/static/media/the-way-of-kings.64626de898004f09a1a6.jpg",
+    "static/media/azkaban.jpg": "/shopping-cart-practice/static/media/azkaban.10c8d19bb9c5f0a08373.jpg",
+    "static/media/maybe-in-another-life.jpg": "/shopping-cart-practice/static/media/maybe-in-another-life.00da01ea88ba484d70cb.jpg",
+    "index.html": "/shopping-cart-practice/index.html",
+    "main.05b073dc.css.map": "/shopping-cart-practice/static/css/main.05b073dc.css.map",
+    "main.40d55b71.js.map": "/shopping-cart-practice/static/js/main.40d55b71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b073dc.css",
+    "static/js/main.40d55b71.js"
+  ]
+}
